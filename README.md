@@ -11,7 +11,7 @@ To use the calculator, enter a number or operator into the display and then clic
 The calculator has the following buttons:
 
 - Numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-- Operators: +, -, *, /
+- Operators: +, -, \*, /
 - Clear Button: Clears the display
 - Backspace Button: Deletes the last entry
 
@@ -19,12 +19,12 @@ The calculator has the following buttons:
 
 - To add 2 and 3, enter 2, +, 3, and then click the equals button.
 - To subtract 5 from 10, enter 10, -, 5, and then click the equals button.
-- To multiply 4 by 3, enter 4, *, 3, and then click the equals button.
+- To multiply 4 by 3, enter 4, \*, 3, and then click the equals button.
 - To divide 6 by 2, enter 6, /, 2, and then click the equals button.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Contributing
 
